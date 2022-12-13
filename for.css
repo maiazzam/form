@@ -1,0 +1,84 @@
+body{
+    margin: 0; 
+    padding: 0; 
+    background: url(purple.jpg); 
+    background-size: cover;
+    background-position: center;
+    font-family: 'Brygada 1918', serif;}
+
+.formy{ 
+    top: 20%; 
+    left: 40%;
+    background-color: rgb(235, 204, 224);
+    width: 320px; 
+    height: 450px; 
+    position: absolute;
+    box-sizing: border-box;
+    border-radius: 30px; 
+    border: 3px solid #a03462; 
+    padding: 5px 30px;
+ } .formy h1{
+    text-align: center; 
+    font-family: 'Source Sans Pro', sans-serif;
+} 
+ 
+ .formy input{
+    width: 100%; 
+    margin-bottom: 20px; 
+ } 
+ .formy p{
+    font-size: 16px; 
+    font-weight: 600;
+ } 
+ .formy h1{
+    font-size: 30px; 
+    font-weight: 900; 
+    font-family: 'Brygada 1918', serif;
+ }
+ .name ,
+ .pass{
+    border: none; 
+    border-bottom: 1px solid #a03462; 
+    background: transparent; 
+    outline: none; 
+    height: 40px ; 
+    color: black; 
+    font-size: 16px;
+ } 
+ .submit{
+    border: none; 
+    border-radius: 20px ;
+    background-color:#a03462; 
+    color: white; 
+    font-size: 18px;
+    padding: 15px; 
+    font-family: 'Brygada 1918', serif;
+ }
+.formy a{
+    text-decoration: none; 
+    font-size: 12px; 
+    line-height: 20px;
+    color: #a03462;
+}
+.formy a:hover{
+    font-size: 15px; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
