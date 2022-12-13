@@ -69,6 +69,11 @@ body{
    background-size: cover;
     background-position: center; 
    }
+    .formy{
+      
+      height: 100vh; 
+        width: 80%; 
+    }
 }
 
 
